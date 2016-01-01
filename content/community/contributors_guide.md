@@ -2,7 +2,7 @@
 date = "2015-12-28T16:00:21-08:00"
 draft = false
 title = "Contributor's Guide"
-weight = 2
+weight = 3
 menu = "community"
 toc = true
 +++
