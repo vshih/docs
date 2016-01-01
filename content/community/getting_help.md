@@ -7,4 +7,12 @@ menu = "community"
 toc = true
 +++
 
-Placeholder!
+## Problems during install or setup
+
+## Unexpected errors during operation
+
+## Issues with build steps or plugins
+
+## General questions about Drone and its capabilities
+
+## Plugin Development questions and issues
